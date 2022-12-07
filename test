@@ -1,0 +1,9 @@
+A = 5 ADD 10
+B = 10 SUB 2
+C = 5 MUL 5
+D = 5 DIV 5
+
+LOG A
+LOG B
+LOG C
+LOG D
